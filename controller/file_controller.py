@@ -1,5 +1,3 @@
-import os
-import traceback
 from model.file import FileModel
 
 

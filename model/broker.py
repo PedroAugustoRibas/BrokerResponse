@@ -1,7 +1,6 @@
 
 class BrokerModel:
     def __init__(self):
-        self.dir_files = 'files/'
         self.list_broker = [{"id": 1, "name": "TIM"},
                             {"id": 1, "name": "VIVO"},
                             {"id": 2, "name": "CLARO"},
